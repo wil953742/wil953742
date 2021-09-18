@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I'm Woongil Kim (Edward in English) 
+- 🤔 I’m studying about JavaScript
+- 😄 I wanna be a Good Programmer!
+
 <!--
 **wil953742/wil953742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
