@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I'm Woongil Kim (Edward in English) 
-- 🤔 I’m studying about JavaScript
+- 🤔 I’m studying JavaScript
 - 😄 I wanna be a Good Programmer!
 
 <!--
